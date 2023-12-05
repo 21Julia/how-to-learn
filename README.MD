@@ -25,6 +25,9 @@ ___
    * добавлены видео при помощи фреймов в секции video;
    * использованы свойства opacity и transition для ссылок в состоянии наведения курсора.
 
+## Ссылка страницы на GitHub Pages:
+
+[https://21julia.github.io/how-to-learn/](https://21julia.github.io/how-to-learn/)
 ___
 
 ## Доработка проекта:
