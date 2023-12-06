@@ -1,8 +1,9 @@
-<font style="color:#307eed;font-size:45px;font-weight:600;font-family:constantia;font-style:italic">Проект: «Научиться учиться»</font>
+<h1 align="center">Проект: «Научиться учиться»</h1>
 
 ___
 
-## Описание проекта:
+
+<font style="color:#307eed;font-size:30px;font-weight:600;font-family:constantia;font-style:italic">Описание проекта:</font>
 
 *О проекте:*
 
@@ -25,7 +26,7 @@ ___
    * добавлены видео при помощи фреймов в секции video;
    * использованы свойства opacity и transition для ссылок в состоянии наведения курсора.
 
-## Ссылка страницы на GitHub Pages:
+<font style="color:#307eed;font-size:30px;font-weight:600;font-family:constantia;font-style:italic">Ссылка страницы на GitHub Pages:</font>
 
 https://21julia.github.io/how-to-learn/
 ___
@@ -34,7 +35,8 @@ ___
 
 *В планы по доработке проекта входят:*
 
-1. Добавление в секцию resources дополнительных ссылок на другие полезные сервисы, такие как [Xmind](https://xmind.app/), [Quizlet](https://quizlet.com/ru), [Pomodoro Tracker](https://pomodoro-tracker.com/?lang=ru);
-2. Использование градиента для элемента square-pic в шапке сайта или для любой другой секции сайта;
-3. Использование других свойств для ссылок в состоянии наведения курсора, например, свойство transform в значении scale и свойство text-decoration в значении underline;
-4. Адаптировать код для одинакового отображения сайта во всех браузерах путем проверки кода на кроссбраузерность на сайте [Can I Use](https://caniuse.com/), после чего дописать вендорные префиксы.
+1. Сделать сайт адаптивным для любых устройств, применить адаптивную вёрстку.
+2. Добавление в секцию resources дополнительных ссылок на другие полезные сервисы, такие как [Xmind](https://xmind.app/), [Quizlet](https://quizlet.com/ru), [Pomodoro Tracker](https://pomodoro-tracker.com/?lang=ru);
+3. Использование градиента для элемента square-pic в шапке сайта или для любой другой секции сайта;
+4. Использование других свойств для ссылок в состоянии наведения курсора, например, свойство transform в значении scale и свойство text-decoration в значении underline;
+5. Адаптировать код для одинакового отображения сайта во всех браузерах путем проверки кода на кроссбраузерность на сайте [Can I Use](https://caniuse.com/), после чего дописать вендорные префиксы.
