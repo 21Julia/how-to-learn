@@ -1,13 +1,8 @@
-<h1 align="center">Проект: «Научиться учиться»</h1>
-
+# <h1 align="center">$\mathbb{\color{#307eed}{\Huge Проект{:} \ «Научиться \ учиться»}}$</h1>
 ___
 
+# $\mathfrak{\color{#05a2a2}{Описание \ проекта{:}}}$
 
-<p style="color:#307eed;font-size:30px;font-weight:600;font-family:constantia;font-style:italic">Описание проекта:</p>
-
-<font style="color:#307eed">Описание проекта:</font>
-
-<p style="color: #307eed; font-size: 30px; font-weight:600; font-family:constantia; font-style:italic">Описание проекта:</p>
 
 *О проекте:*
 
@@ -30,7 +25,8 @@ ___
    * добавлены видео при помощи фреймов в секции video;
    * использованы свойства opacity и transition для ссылок в состоянии наведения курсора.
 
-<font style="color:#307eed;font-size:30px;font-weight:600;font-family:constantia;font-style:italic">Ссылка страницы на GitHub Pages:</font>
+
+### $\Huge{\color{#05a2a2}{Ссылка \ страницы \ на \ GitHub \ Pages{:}}}$
 
 https://21julia.github.io/how-to-learn/
 ___
