@@ -3,7 +3,11 @@
 ___
 
 
-<font style="color:#307eed;font-size:30px;font-weight:600;font-family:constantia;font-style:italic">Описание проекта:</font>
+<p style="color:#307eed;font-size:30px;font-weight:600;font-family:constantia;font-style:italic">Описание проекта:</p>
+
+<font style="color:#307eed">Описание проекта:</font>
+
+<p style="color: #307eed; font-size: 30px; font-weight:600; font-family:constantia; font-style:italic">Описание проекта:</p>
 
 *О проекте:*
 
