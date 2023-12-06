@@ -1,4 +1,4 @@
-<h1 align="center"><font style="color:#307eed;font-size:45px;font-weight:600;font-family:constantia;font-style:italic">Проект: «Научиться учиться»</font></h1>
+<font style="color:#307eed;font-size:45px;font-weight:600;font-family:constantia;font-style:italic">Проект: «Научиться учиться»</font>
 
 ___
 
