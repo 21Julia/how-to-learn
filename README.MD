@@ -1,4 +1,4 @@
-# Проект: «Научиться учиться».
+<h1 align="center" style="color:#307eed;font-size:45px;font-weight:600;font-family:constantia;font-style:italic">Проект: «Научиться учиться»</h1>
 
 ___
 
@@ -27,7 +27,7 @@ ___
 
 ## Ссылка страницы на GitHub Pages:
 
-[https://21julia.github.io/how-to-learn/](https://21julia.github.io/how-to-learn/)
+https://21julia.github.io/how-to-learn/
 ___
 
 ## Доработка проекта:
@@ -38,5 +38,3 @@ ___
 2. Использование градиента для элемента square-pic в шапке сайта или для любой другой секции сайта;
 3. Использование других свойств для ссылок в состоянии наведения курсора, например, свойство transform в значении scale и свойство text-decoration в значении underline;
 4. Адаптировать код для одинакового отображения сайта во всех браузерах путем проверки кода на кроссбраузерность на сайте [Can I Use](https://caniuse.com/), после чего дописать вендорные префиксы.
-
-
